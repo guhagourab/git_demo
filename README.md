@@ -1,3 +1,3 @@
-# Gihub demo
+# Github demo
 
 learn github
